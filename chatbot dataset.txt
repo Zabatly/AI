@@ -1,0 +1,659 @@
+What types of venues do you offer for reservation?	we offer birthday, wedding and party suitable venues
+do you offer birthday events?	yes we offer birthday, wedding and party events
+what type of events do you offer?	we offer birthday, wedding and party events
+do you offer wedding events?	yes we offer wedding, birthday and party events
+do you offer party events?	yes we offer party, birthday and wedding events
+if i want to hold a party do you have suitable venues?	yes, we have suitable venues for such occassions.
+if i want to hold a birthday party do you have suitable venues?	yes, we have suitable venues for such occassions.
+if i want to hold a wedding do you have suitable venues?	yes, we have suitable venues for such occassions.
+if i want to arrange a party do you have suitable venues?	yes, we have suitable venues for such occassions.
+do you have venues for other events?	yes we offer venues suitable for a range of events		
+What are the payment options for venue reservation?	credit card payments
+What methods of payment do you accept?	credit card payments
+What are the available payment options?	credit card payments
+Do you accept credit/debit cards for payments?	you can use your credit card
+Are online payment options available?	yes, you can pay online
+Can i pay online?	yes, you can pay online.
+can i pay using cash	sorry, we do not accept cash
+is credit card allowed	yes it is allowed
+What is the cancellation policy for venue reservations?	you have to inform us 5 days in advance
+can i cancel my reservation?	yes, but it needs to be done 5 days in advance
+can my reservation be cancelled?	yes, but it needs to be 5 days in advance	 
+Can I change the reservation date and time after booking?	no, date and time can not be changed after booking
+What is the capacity of the venue?	this depends on each venue
+what is the venues capacity?	this depends on the venue booked	
+do all venues carry the same capacity?	no, each venues has it is own capacity
+Is there any discount for booking multiple venues?	we have multiple discounts ocasionally
+do you have any discounts?	yes, you can check them out on our website
+Is there a minimum or maximum rental time for the venue?	this depends on each venue 
+how long can i rent the venue for?	this depends on the venue booked
+Can I visit the venue before making a reservation?	yes, you can visit the venue
+Is there an opportunity to see the venue in person before confirming a reservation?	yes, you can visit the venue
+Are pre-reservation visits allowed at the venue?	yes, you can visit the venue
+Do you offer the option to visit the venue before making a reservation?	yes, you can visit the venue
+Can I inspect the venue before reserving?	yes, you can visit the venue
+can i check out the venue first?	yes, you are allowed to visit it 
+What types of events are suitable for the venue?	weddings, birthdays and other parties
+Are there any restrictions on the type of event that can be held at the venue?	yes there are a few restrictions listed in the description of the venue
+Are there any event planning or coordination services available?	yes, we can help plan and coordinate the event
+Can I rely on your expertise for event planning and coordination?	yes, we can help plan and coordinate the event
+Is event planning and coordination assistance included in your service offerings?	yes, we can help plan and coordinate the event
+Can I get assistance with event planning and coordination for my upcoming event?	yes, we can help plan and coordinate the event
+do you offer any services?	yes, we can plan and coordinate the event for you
+Can I reserve the venue for a half-day event?	yes, you can choose your time depending on the availability 
+Is there any security or surveillance system installed at the venue?	yes, all our venues are protected
+how is the security at the venue?	we have security guards all around the venue
+Is there a security team or personnel present at the venue?	we have security guards all around the venue
+Is there a security team at the venue?	we have security guards all around the venue
+What is the security like at the venue?	What is the security like at the venue?	 
+Is there any technical support available during the event?	yes, we can provide technical support if needed.
+Will there be technical assistance provided during the event?	yes, we can provide technical support if needed.
+Is technical assistance provided during the event?	yes, we can provide technical support if needed.
+thanks for helping	No problem, glad to assist!
+thankyou	No problem, glad to assist!
+thanks for assisting me	No worries, always here to help!
+Goodbye!	Goodbye! Have a great day!
+See you later!	Take care, see you soon!
+I'm leaving now.	Okay, have a safe trip home!
+It was nice talking to you.	Same here, have a great day!
+I have to go now.	No problem, take care and stay safe!
+Bye!	Bye, talk to you soon!
+Thanks for your help.	You're welcome! Let me know if you need any more assistance.
+Thank you for your assistance.	You're welcome, happy to help!
+I appreciate your help.	No problem, glad I could assist you!
+Thank you!	You're welcome, have a great day!
+Hello!	Hi there, how can I help you?
+Hi!	Hello, what can I do for you today?
+Hey!	Hi, how may I assist you?
+Good morning!	Good morning, how can I be of service?
+Good afternoon!	Good afternoon, how can I assist you?
+Good evening!	Good evening, how can I help you today?
+How are you?	I'm doing well, thank you. How about yourself?
+What's up?	Not much, how about you?
+How's it going?	Pretty good, thanks. How about you?
+Nice to meet you!	Nice to meet you too. How can I assist you?
+Hello	Hi, how may i help you
+Hi	Hello, how may i help you?
+Greetings!	Hello, how may i help you
+Hello	Greetings! how may i help you
+Hi, How is it going?	Good
+Hi, How is it going?	Fine
+Hi, How is it going?	Great
+How are you doing?	Good.
+How are you doing?	Very well, thanks.
+How are you doing?	Fine, and you?
+Fine, and you?	i am good
+Nice to meet you.	Thank you.
+How do you do?	I'm doing well.
+How do you do?	I'm doing well. How are you?
+I'm doing well. How are you?	i am fine, how can i help you?
+Hi, nice to meet you.	Thank you. You too.how can i help you?
+It is a pleasure to meet you.	Thank you. You too.
+Top of the morning to you!	Thank you kindly.
+Top of the morning to you!	And the rest of the day to you.
+How can I book a venue?	you can select your prefered venue from our website and then click on book now
+Could you explain the process of booking a venue?	you can select your prefered venue from our website and then click on book now
+What is the process for reserving a venue?	you can select your prefered venue from our website and then click on book now
+How can I go about booking a venue?	you can select your prefered venue from our website and then click on book now
+What is the procedure for reserving a venue?	you can select your prefered venue from our website and then click on book now
+How can i reserve a venue?	you can select your prefered venue from our website and then click on book now
+i wanted to book a venue for an event how can i do that?	you can visit our website and select your prefered venue and then click on book now
+can you provide me with the steps to book a venue?	you will need to visit our website and select your prefered venue and then click on book now
+What are the booking and cancellation policies at the hotel?	you can cancel your reservation as long as it is 5 days in advance
+can i cancel my reservation if it is 5 days in advance?	yes, you can cancel it
+can i cancel my reservation a day before the event?	unfortunately you can not
+Can I get a refund for the amount paid upon cancellation of the booking?	Yes, ofcourse but only if the cancellation is 5 days earlier.
+How can I check the availability of parking facilities at the venue?	you will find such information in the venue description.
+is parking available at the venue?	this depends on the selected venue. such information will be in the description. 
+What facilities are available at the venue for events and meetings?	The facilities available at the venue may differ. such information will be in the description.
+Can I make changes to my booking after it has been confirmed?	Yes, you may be able to make changes to your booking after it has been confirmed.
+Are there any additional charges or fees for using the facilities at the venue?	There may be additional charges for using certain facilities.
+Is there a deadline for making changes or cancellations to my booking?	Yes, there's a 5 days in advance deadline.
+Are there any discounts or promotions available for venue reservations?	Yes, we always have offers. you can check the offers on our website.
+What are the accepted methods of payment for venue reservations?	We accept credit cards.
+Are there any specific rules or regulations for using the facilities at the venue?	Yes, there are specific rule for each venue. such information will be in the description.
+Can I request for special arrangements or services at the venue?	Yes, you can request specific services in advance.
+How can I contact the venue/hotel directly for further inquiries or assistance with my reservation/booking?	you can contact them via the customer support number or you can ask me for any inquiries.
+Can I make multiple reservations/bookings at once?	yes, you can make as many bookings as you want.
+How can I view my reservation confirmation?	you can view it through our website, it will be in your reservations section.
+Is there a waitlist option if the venue/event is fully booked?	no, there is no waitlist available.
+Can I request for additional services or upgrades for my reservation/booking?	yes, ofcourse 
+What is the policy for no-show or late arrival for my reservation/booking?	if you do not show at all then you will be charged the full amount.
+Is there a deposit or prepayment required for my reservation/booking?	yes, to reserve the venue you have to pay the full amount.
+What is the policy for children or extra guests in my reservation/booking?	you can bring extra guests as long as it's within the specified capacity
+Can I extend or shorten the duration of my reservation/booking?	yes, these modifications can be made by editing your reservation.
+What is the policy for pets or service animals in the venue/event?	this varies from a venue to another. such information will be in the description.
+What is the policy for lost or forgotten items during my reservation/booking?	we aren't responsible for any lost items.
+Are there any package deals or promotions available for booking a venue?	offers can be viewed through our website.
+How can I search for available spaces based on my needs?	we have customized filters that will help you view your desired venue
+What types of booking options are available?	unfortunately, we only offer online booking
+How can I check the availability of a specific space or date?	once you select your desired venue the description and the available dates will be shown
+Is the payment process secure and certified?	yes, the payment process is certified
+Can I request a booking for a specific space or date?	yes, ofcourse
+What is the layout of the space?	this depends on the venue selected. such information will be in the description.
+Who’s responsible for the cleanup?	we can provide a cleaning team upon request.
+Who is in charge of the post-event cleanup?	we can provide a cleaning team upon request.
+Who bears the responsibility for cleaning up after the event?	we can provide a cleaning team upon request.
+Who will handle the cleanup tasks once the event concludes?	we can provide a cleaning team upon request.
+Who takes care of the cleanup duties once the event is over?	we can provide a cleaning team upon request.
+Is there a cleanup service provided?	we can provide a cleaning team upon request.
+can i request for a cleanup team?	yes, of course you can do that.
+How flexible is the venue with the date and time changes?	we are felxible as long as it's 48 hours prior to the event
+Have there been any problems at the venue during previous events?	no, not at all
+How much experience does your team have hosting events?	we have high standards when it comes to events
+Can I visit the venue before my event to get a feel for the space?	yes, you can visit the venue
+Do you have any special offers or discounts I can take advantage of?	offers can be viewed through our website.
+Is there a minimum number of people required to book the venue?	no this is totally up to you 
+Can we bring our food and drinks?	yes it is possible, however we can provide that if needed.
+Are outside food and drinks allowed at the venue?	yes it is possible, however we can provide that if needed.
+Are we allowed to bring our food and drinks for the event?	yes it is possible, however we can provide that if needed.
+Is outside catering allowed for food and beverages?	yes it is possible, however we can provide that if needed.
+Are there any restrictions on bringing our food and drinks?	no, you can bring your food and drinks.
+Are outside food and drinks permitted?	yes it is permitted, however we can provide that if needed.
+can you provide food and drinks?	yes, we can provide that upon request.
+Do you offer catering services for food and drinks?	yes, we can provide that upon request.
+Are there options available for providing food and beverages?	yes, we can provide that upon request.
+Can I rely on your services for food and drink provisions?	yes, we can provide that upon request.
+Do you provide food and drinks arrangements for events?	yes, we can provide that upon request.
+Can you provide food and drinks for the event?	yes, we can provide that upon request.
+What time can we arrive to set everything up?	we can set up everything for you, however you can come 4 hours earlier.
+What time do we need to leave the venue?	this depends on the venue. such information will be in the description.
+Is there security personnel on-site?	yes, all our venues are protected	
+How can we contact you if we have any other questions or concerns?	you can contact us via our customer support phone number
+How many people will be working on-site during my event?	this depends on the type of event but you can always add more staff
+Can I bring my own service providers if I want to?	yes you can do that but you have to inform us
+Is your staff available for set-up and clean-up if needed?	yes, they are available
+do you offer secuirty?	yes, all our venues are protected
+is security available at the venue?	yes, all our venues are protected
+is security available?	yes, all our venues are protected
+Do you have equipment available for use?	yes but you need to make a request for that
+is there an additional fee for the use of this equipment?	yes any additional equipment has an additonal fee
+Are there any additional overtime fees?	unfortunately you can not exceed the agreed time
+Is the space private or shared?	it is totally private for you and your guests
+Are there any regulations for pets?	this depends on the venue and its owners. such information will be in the description.
+Are there any rules regarding pets?	this depends on the venue. such information will be in the description.
+Can I bring my pet?	this depends on the venue. such information will be in the description.
+can i bring my dog to the event?	this depends on the venue. such information will be in the description.
+can i bring my cat to the venue?	this depends on the venue. such information will be in the description.
+Is it permissible to have pets at the venue?	this depends on the venue. such information will be in the description.
+Are there any restrictions on bringing pets to the venue?	this depends on the venue. such information will be in the description.
+Are pets allowed at the venue?	this depends on the venue and its owners. such information will be in the description.
+Would it be acceptable to have my pet accompany me to the venue?	this depends on the venue and its owners. such information will be in the description.
+Can I include my pet in my visit to the venue?	this depends on the venue and its owners. such information will be in the description.	
+Are there any other rules or regulations that renters should be aware of?	all rules are in the venue description.
+How far in advance do reservations need to be made?	reservations can be made at any time as long as the venue is available
+How far ahead should I book reservations?	reservations can be made at any time as long as the venue is available
+What is the ideal timeframe for making reservations in advance?	reservations can be made at any time as long as the venue is available
+Is there a specific deadline for making reservations?	no, reservations can be made at any time as long as the venue is available
+How early should I make reservations?	reservations can be made at any time as long as the venue is available
+What is the required lead time for making reservations?	reservations can be made at any time as long as the venue is available
+when can i make my reservation?	reservations can be made at any time as long as the venue is available
+when can i reserve a venue?	you can reserve a venue at any time as long as the venue is available
+When is the total amount due?	after booking you will be transferred to the payment page
+Are there age restrictions for guests attending the event?	this also depends on the venue you select. such information will be in the description.
+How will guests be notified about the event?	we can prepare flyers for your event or share it via social media
+can you notify the guests about the event?	yes, we can prepare flyers for your event or share it via social media
+can you share the event via social media?	yes, we can share it via social media
+can you prepare flyers for the event?	yes, we can prepare flyers for the event.
+Do you offer flyer preparation as part of your event support?	yes, we can prepare flyers for the event upon request.
+Can I request assistance in creating event flyers from your team?	yes, we can help prepare flyers for the event upon request.
+Do you provide flyer design services for events?	yes, we can prepare flyers for the event upon request.
+Can I get help with flyer creation for promoting the event?	yes, we can help prepare flyers for the event.
+Is there a contingency plan for rain?	yes we have got everything covered up 
+Will security be provided by the venue or do you need to hire your own?	yes, all our venues are protected.
+Do you have any other venues that may be suitable for our event?	you can view the recommendations tab on our website.
+Are we allowed to bring in our own decorations?	yes, you can bring your own decorations.
+can you help us decorate the venue?	yes, we have a team that can help upon request.
+can we decorate the venue?	yes, you can bring your own decorations.
+Can I move things around the venue?	yes, you can move things however you want.
+Do you provide umbrellas for the outdoor spaces?	yes, we can provide that upon request.
+Can I hire my own vendors?	yes, you can hire them.
+Can the venue accommodate a DJ or live band?	yes, we can provide that upon request.
+Are there any noise restrictions?	this depends on the selected venues. such information will be in the description.
+can you settle up a shuttle service?	yes, we can provide that upon request.
+Are there any photograph or video restrictions?	no, this is up to the owner.
+What happens if fewer people attend than anticipated?	nothing, this is up to you.
+How do you avoid members of the public entering the building?	we have security guards all around the place.
+What is your latest finishing time?	this depends on the venue. such information will be in the description.
+Will there be a dedicated co-ordinator looking after my event?	yes, we can provide that upon request.
+Can you send us photographs of the venue in use?	All the venue pictures are available on our website.
+Can we see pictures of the venue?	All the venue pictures are available on our website.
+Can you send us a video walkthrough of the venue?	unfortunately we do not provide a video but you can visit the venue.
+Is it possible to receive a video tour of the venue?	unfortunately we do not provide a video but you can visit the venue.
+Can we request a video guide of the venue?	unfortunately we do not provide a video but you can visit the venue.
+Is there an option to receive a video demonstration of the venue?	unfortunately we do not provide a video but you can visit the venue.
+Can you send us a video of the venue?	unfortunately we do not provide a video but you can visit the venue.
+Do you have tables and chairs for us to use?	this depends on the venue. such information will be in the description.
+Can you provide us with tables and chairs?	yes, we can provide that upon request.
+Can you send us photos of the furniture available?	You can view the furniture pictures through our website.
+can you show me pictures of the furniture?	You can view the furniture pictures through our website.
+Can we leave vehicles overnight?	unfortunately you can not do that.
+Do you have TVs we can use?	this depends on the venue. such information will be in the description.
+Do you have TVs available?	this depends on the venue. such information will be in the description.
+Can I have equipment delivered to the venue?	yes, this is up to you.
+Are we able to store our equipment overnight?	unfortunately you can not do that.
+can i store my equipment overnight?	unfortunately you can not do that.
+What time do we have access to the venue for set up?	you can come 4 hours earlier.
+Is an external caterer allowed?	yes, it is allowed.
+Do you take card payments?	yes, we accept cards.
+Do you provide complimentary water?	yes, we can provide that upon request.
+What are your Wi-Fi capabilities?	this depends on the venue. such information will be in the description.
+Is there wi-fi in the venue?	this depends on the venue. such information will be in the description.
+Can I bring in outside suppliers?	yes, it is allowed.
+What is the sound and lighting system like?	you can customize them the way you want.
+How can I check the availability of a specific venue for my desired event date?	you can use our filters to select the preferred date.
+I have a problem regarding the venue who do i contact?	you can contact our customer support.
+Can you recommend me a venue?	you can view the recommendations tab on our website.
+What is the recommendations tab?	It contains venues that are similar to the venues you have visited before.
+How can i check the venue description?	you can click on your preferred venue and you will find the venue description.
+Does the venue description cover everything?	yes, the venue description is totally complete.
+Can i list a venue?	unfortunately you can not do that
+Can i search for a venue by its name?	yes of course you can use the search bar for that.
+Do you operate outisde egypt?	unfortunately we only operate in egypt.
+Is it possible to make a reservation over the phone?	unfortunately you have to reserve through our website.
+can i make a reservation over the phone?	unfortunately you have to reserve through our website.
+How can i know the exact location of the venue?	such information will be in the venue description.
+How can i check the most popular venues?	The most popular venues are available in the hot venues section.
+How can I find out which venues are the most popular?	The most popular venues are available in the hot venues section.
+Is there a way to check the top-rated venues?	The most popular venues are available in the hot venues section.
+Is there a feature that allows me to view the most popular venues?	The most popular venues are available in the hot venues section.
+Is there a way to view the most trending venues?	The most popular venues are available in the hot venues section.
+Do you have a place where i can check the best venues?	The best venues are available in the hot venues section.
+Where can i check the best venues?	The best venues are a vailable in the hot venues section.
+Where can i see the best venues?	The best venues area vailable in the hot venues section.
+How can I determine if the venue is of high quality?	each venue has its star rating.such information will be in the venue page.
+How can i know if the venue is of high quality?	each venue has its star rating.such information will be in the venue page.
+How can i know the quality of the venue?	each venue has its star rating.such information will be in the venue page.
+Do i have to log in to view the recommendations?	yes, you have to be logged on.
+Is logging in a requirement to access the recommendations?	yes, you have to be logged on.
+Do i have to be logged on to view the recommendations?	yes, you have to be logged on.
+Should I log in to view the recommended suggestions?	yes, you have to be logged on.
+Can i view the recommendations without logging in?	unfortunately you can not do that.
+Is it possible to access the recommendations without logging in?	unfortunately you can not do that.
+Do I have the ability to view the recommendations without logging in?	unfortunately you can not do that.
+How do I ensure that my reservation has been successfully processed?	you will receive a confirmation email immediately.
+How can I verify if my reservation has been successfully completed?	yes, you will receive a confirmation email immediately.
+What are the indicators that my reservation has been confirmed?	you will receive a confirmation email immediately.
+How can i know if my reservation went through successfully?	you will receive a confirmation email immediately.
+Why is the customer support not responding to my inquiries?	We are very sorry. you can ask me for any inquiries.
+Why is the website experiencing frequent errors and crashes?	We are very sorry. our technical team is addressing the problem.
+Why am I unable to modify my reservation online?	please contact us via our customer support number.
+Why am I not receiving any assistance from the customer support team?	We are very sorry. you can ask me for any inquiries.
+Why are my inquiries not being addressed by the customer support team?	We are very sorry. you can ask me for any inquiries.
+Why does the website keep encountering errors repeatedly?	We are very sorry. our technical team is addressing the problem.
+I booked the wrong venue can i cancel it?	yes, you can cancel your reservation as long as it is 5 days in advance.
+Can i cancel my reservation after accidentally booking the wrong venue?	you can cancel your reservation as long as it is 5 days in advance.
+I mistakenly reserved the wrong venue. Is it possible to cancel the booking?	you can cancel your reservation as long as it is 5 days in advance.
+I realized i booked the wrong venue. Can I cancel the reservation?	you can cancel your reservation as long as it is 5 days in advance.
+I have special accessibility needs. can you accommodate me?	yes, we can provide that upon request.
+I have special accessibility needs. Is it possible to accommodate them?	yes, we can provide that upon request.
+Can you make necessary accommodations for my special accessibility requirements?	yes, we can provide that upon request.
+Can i book through your application?	yes ofcourse you can do that.
+Do you have an application or just a website?	we have a dedicated appplication.
+Do you have an application?	yes, we have an application.
+How can i find your application?	you can find it on the app store.
+How do I pay for the reservation?	you can pay through our secure website.
+What are the accepted payment modes for completing the reservation?	We accept credit cards.
+How can I proceed with the payment for my reservation?	after booking you will be transferred to the payment page.
+Do you offer any shuttle services for transportation?	yes, we can provide that upon request.
+Is there a shuttle service provided for transportation needs?	yes, we can provide that upon request.
+Are there any organized shuttles offered for convenient transportation?	yes, we can provide that upon request.
+Can I rely on any organized shuttles for my transportation needs?	yes, we can provide that upon request.
+Is there a designated transport service provided?	we can provide that upon request.
+Do you offer any scheduled vans for convenient travel?	yes, we can provide that upon request.
+Do you provide venues in locations beyond Egypt?	unfortunately we only operate in egypt.
+Are your venue offerings available outside of Egypt?	unfortunately we only operate in egypt.
+Do you offer event spaces in countries other than Egypt?	unfortunately we only work in egypt.
+Are there venues you provide internationally or outside Egypt?	unfortunately we only work in egypt.
+Do you offer event spaces in other countries apart from Egypt?	unfortunately we only work in egypt.
+Are your venue services extended to locations outside Egypt?	unfortunately we only work in egypt.
+Do you offer venues in locations other than egypt?	unfortunately we only work in egypt.
+Do you have venues in Cairo?	yes, we provide venues there
+Do you have venues in alexandria?	yes, we provide venues there
+Do you have venues in giza?	yes, we provide venues there
+Do you have venues in aswan?	yes, we provide venues there
+Do you have venues in luxor?	yes, we provide venues there
+Do you have venues in suez?	yes, we provide venues there
+Do you have venues in asyut?	yes, we provide venues there
+Do you have venues in tanta?	yes, we provide venues there
+Do you have venues in hurghada?	yes, we provide venues there
+Do you have venues in mansoura?	yes, we provide venues there
+Are there any venues available in Cairo for events?	yes, we provide venues there
+Do you offer event spaces in Alexandria?	yes, we provide venues there
+Are there venues provided in Giza for hosting events?	yes, we provide venues there
+Do you have event venues in Aswan?	yes, we provide venues there
+Are there venues available in Luxor for special occasions?	yes, we provide venues there
+Do you offer event spaces in Suez?	yes, we provide venues there
+Are there venues provided in Asyut for hosting events?	yes, we provide venues there
+Do you have event venues in Tanta?	yes, we provide venues there
+Are there venues available in Hurghada for special occasions?	yes, we provide venues there
+Do you offer event spaces in Mansoura?	yes, we provide venues there
+Can I find venues in Cairo for my event needs?	yes, we provide venues there
+Are there event spaces available in Alexandria?	yes, we provide venues there
+Can I locate venues in Giza for hosting my event?	yes, we provide venues there
+Are there event venues in Aswan that I can book?	yes, we provide venues there
+Are their venues in cairo?	yes, we provide venues there
+Are their venues in alexandria?	yes, we provide venues there
+Are their venues in suez?	yes, we provide venues there
+Should I inform you about the expected attendance for the event?	no, the number of guests is up to you.
+Is it necessary to provide an expected turnout for the event?	no, the number of guests is up to you.
+Do you request an approximate headcount prior to the event date?	no, the number of guests is up to you.
+Do you need to know the anticipated number of attendees beforehand?	no, the number of guests is up to you.
+Should I provide an estimate of the attendee count in advance?	no, the number of guests is up to you.
+Do you need to know the estimated headcount for the event?	no, the number of guests is up to you.
+Is it preferred to have a rough count of the people attending the event?	no, the number of guests is up to you.
+ما هى أنواع المواقع التي تقدمونها للحجز؟	نحن نقدم مواقع مناسبة للاحتفالات بعيد الميلاد و الافراح و الحفلات
+هل تقدمون فعاليات عيد الميلاد؟	نعم، نحن نقدم فعاليات عيد الميلاد والافراح والحفلات
+ما هو نوع الفعاليات التي تقدمونها؟	نحن نقدم فعاليات عيد الميلاد والافراح والحفلات
+هل تقدمون فعاليات الافراح؟	نعم، نحن نقدم فعاليات الافراح وعيد الميلاد والحفلات
+هل تقدمون فعاليات الحفلات؟	نعم، نحن نقدم فعاليات الحفلات وعيد الميلاد والافراح
+إذا أردت تنظيم حفلة، هل لديكم مواقع مناسبة؟	نعم، لدينا مواقع مناسبة لهذه المناسبات
+إذا أردت تنظيم حفلة عيد ميلاد، هل لديكم مواقع مناسبة؟	نعم، لدينا مواقع مناسبة لهذه المناسبات
+إذا أردت تنظيم حفلة زفاف، هل لديكم مواقع مناسبة؟	نعم، لدينا مواقع مناسبة لهذه المناسبات
+إذا أردت تنظيم حفلة، هل لديكم مواقع مناسبة؟	نعم، لدينا مواقع مناسبة لهذه المناسبات
+هل لديكم مواقع لفعاليات أخرى؟	نعم، نحن نقدم مواقع مناسبة لمجموعة متنوعة من الفعاليات
+ما هي خيارات الدفع المتاحة لحجز الموقع؟	يمكنك استخدام بطاقة الائتمان الخاصة بك
+هل يمكنني الدفع نقدًا؟	آسف، نحن لا نقبل النقد
+هل يُسمح باستخدام بطاقة الائتمان؟	نعم، يُسمح بذلك
+ما هي سياسة الإلغاء لحجز الموقع؟	يجب عليك إبلاغنا قبل 5 أيام على الأقل
+هل يمكنني إلغاء حجزي؟	نعم، ولكن يجب أن يتم ذلك قبل 5 أيام على الأقل
+هل يمكن إلغاء حجزي؟	نعم، ولكن يجب أن يتم ذلك قبل 5 أيام على الأقل
+هل يمكنني تغيير تاريخ ووقت الحجز بعد الحجز؟	لا، لا يمكن تغيير التاريخ والوقت بعد الحجز
+ما هي سعة الموقع؟	هذا يعتمد على كل موقع على حدة
+ما هي سعة المواقع؟	هذا يعتمد على الموقع المحجوز
+هل جميع المواقع تحمل نفس السعة؟	لا، كل موقع له سعته الخاصة
+هل هناك أي تخفيض لحجز مواقع متعددة؟	لدينا تخفيضات متعددة بشكل منتظم
+هل لديكم أي تخفيضات؟	نعم، يمكنك التحقق منها على موقعنا
+هل هناك وقت أدنى أو أقصى لاستئجار الموقع؟	يعتمد ذلك على كل موقع على حدة
+كم يمكنني استئجار الموقع لمدة؟	هذا يعتمد على الموقع المحجوز
+هل يمكنني زيارة الموقع قبل عملية الحجز؟	نعم، يمكنك زيارة الموقع
+هل يمكنني التحقق من الموقع أولاً؟	نعم، يُسمح لك بزيارته
+ما هي أنواع الفعاليات المناسبة للموقع؟	الافراح وأعياد الميلاد والحفلات الأخرى
+هل هناك قيود على نوع الفعالية التي يمكن عقدها في الموقع؟	نعم، هناك بعض القيود المدرجة في وصف الموقع
+هل هناك خدمة تخطيط أو تنسيق الفعاليات المتاحة؟	نعم، يمكننا مساعدتك في تننظيم الفعالية
+هل تقدمون أي خدمات؟	نعم، يمكننا تخطيط الفعالية بالنيابة عنك
+هل يمكنني حجز الموقع لفعالية نصف يوم؟	نعم، يمكنك اختيار الوقت الذي يناسبك حسب التوافر
+هل هناك نظام أمني أو مراقبة مثبت في الموقع؟	نعم، جميع مواقعنا محمية
+هل يتوفر أي دعم فني أثناء الحدث؟	يمكننا تقديم الدعم الفني إذا لزم الأمر
+شكرا للمساعدة لا توجد مشكلة	يسعدني تقديم المساعدة
+شكرا لا توجد مشكلة	يسعدني تقديم المساعدة
+شكرا لمساعدتي لا تقلق	دائما هنا للمساعدة
+مع السلامة!	مع السلامة! أتمنى لك يوماً عظيماً
+أراك لاحقًا!	خذ حذرك اراك قريبا
+انا راحل الان		حسنًا ، أتمنى لك رحلة آمنة إلى المنزل
+سعدت بالكلام معك.	بالمثل هنا ، أتمنى لك يومًا سعيدًا
+يجب أن أذهب الآن.	لا مشكلة ، اعتني بنفسك وابقى آمناً
+الوداع!	وداعا ، تحدث إليكم قريبا
+شكرا لمساعدتك.	على الرحب والسعة! اسمحوا لي أن أعرف إذا كنت بحاجة إلى مزيد من المساعدة
+شكرا لمساعدتك.	على الرحب والسعة ، يسعدنا تقديم المساعدة
+انا اقدر مساعدتك.	لا مشكلة ، سعيد لأنني أستطيع مساعدتك
+شكرًا لك!	على الرحب والسعة ، أتمنى لك يومًا سعيدًا
+مرحبًا!	مرحبًا ، كيف يمكنني مساعدتك؟
+أهلاً!	مرحبا ماذا استطيع ان افعل لك اليوم؟
+أهلا!	مرحبا كيف يمكنني مساعدتك؟
+صباح الخير!	صباح الخير كيف لي أن أكون في الخدمة؟
+مساء الخير!	مساء الخير كيف يمكنني مساعدتك؟
+مساء الخير!	مساء الخير كيف استطيع مساعدتك اليوم؟
+كيف حالك؟	انا في حالة جيدة شكرا. ماذا عنك؟
+ما أخبارك؟	ليس كثيرا كيف عنك؟
+كيف يمكنني حجز مكان؟	يمكنك اختيار المكان المفضل لك من موقعنا ومن ثم النقر على "حجز الآن"
+هل تقدمون حجز فعاليات عيد الميلاد؟	نعم، نقدم حجز فعاليات عيد الميلاد بالإضافة إلى الافراح والحفلات الأخرى
+ما هي أنواع الفعاليات التي تقدمونها؟	نقدم فعاليات عيد الميلاد والافراح والحفلات الأخرى
+هل تقدمون حجز لفعاليات الافراح؟	نعم، نقدم حجز فعاليات الافراح بالإضافة إلى عيد الميلاد والحفلات الأخرى
+هل تقدمون حجز لفعاليات الحفلات؟	نعم، نقدم حجز فعاليات الحفلات بالإضافة إلى عيد الميلاد والافراح
+إذا أردت عقد حفلة، هل لديكم مكان مناسب لذلك؟	نعم، لدينا مكان مناسب لمثل هذه المناسبات
+إذا أردت عقد حفلة عيد ميلاد، هل لديكم مكان مناسب لذلك؟	نعم، لدينا مكان مناسب لمثل هذه المناسبات
+إذا أردت عقد حفل زفاف، هل لديكم مكان مناسب لذلك	نعم، لدينا مكان مناسب لمثل هذه المناسبات
+إذا أردت تنظيم حفلة، هل لديكم مكان مناسب لذلك؟	نعم، لدينا مكان مناسب لمثل هذه المناسبات
+هل لديكم مكان مناسب لفعاليات أخرى؟	نعم، نقدم مكان مناسب لمجموعة متنوعة من الفعاليات
+ما هي خيارات الدفع المتاحة لحجز المكان؟	يمكنك استخدام بطاقة الائتمان الخاصة بك
+هل يمكنني الدفع نقدًا؟	عذرًا، لا نقبل الدفع نقدًا
+هل يُسمح باستخدام بطاقة الائتمان؟	نعم، يُسمح باستخدام بطاقة الائتمان
+ما هي سياسة الإلغاء لحجوزات المكان؟	يجب إبلاغنا قبل 5 أيام من الموعد المحدد للحجز
+هل يمكنني إلغاء حجزي؟	نعم، ولكن يجب أن يتم ذلك قبل 5 أيام من الموعد المحدد
+هل يمكنني إلغاء حجزي قبل يوم واحد من الحدث؟	للأسف، لا يمكنك ذلك
+هل يمكنني الحصول على استرداد للمبلغ المدفوع عند إلغاء الحجز؟	نعم، ولكن فقط إذا تم الإلغاء قبل 5 أيام
+كيف يمكنني التحقق من توافر مرافق وقوف السيارات في المكان؟	ستجد هذه المعلومات في وصف المكان
+هل يتوفر موقف للسيارات في المكان؟	هذا يعتمد على المكان المحدد. ستجد هذه المعلومة في الوصف
+ما هي المرافق المتاحة في المكان للفعاليات والاجتماعات؟	تختلف المرافق المتاحة في المكان. ستجد هذه المعلومة في الوصف
+هل يمكنني إجراء تغييرات على حجزي بعد التأكيد؟	نعم، ربما تستطيع إجراء تغييرات على حجزك بعد التأكيد
+هل هناك رسوم إضافية أو رسوم لاستخدام المرافق في المكان؟	قد تكون هناك رسوم إضافية لاستخدام بعض المرافق
+هل هناك مهلة لإجراء تغييرات أو إلغاء حجزي؟	نعم، هناك مهلة قدرها 5 أيام قبل الموعد المحدد
+هل توفرون خصومات أو عروض لحجوزات المكان؟	نعم، لدينا دائمًا عروض، يمكنك التحقق منها على موقعنا
+ما هي وسائل الدفع المتاحة لحجز المكان؟	نحن نقبل بطاقات الائتمان
+هل هناك قواعد محددة أو لوائح لاستخدام المرافق في المكان؟	نعم، هناك قواعد محددة لكل مكان. ستجد هذه المعلومات في الوصف
+هل يمكنني طلب ترتيبات خاصة أو خدمات في المكان؟	نعم، يمكنك طلب خدمات محددة مسبقًا
+كيف يمكنني التواصل مع المكان/الفندق مباشرة للاستفسارات الأخرى أو المساعدة في حجزي؟	يمكنك التواصل معنا عبر رقم خدمة العملاء أو يمكنك طرح الأسئلة علي في أي وقت
+هل يمكنني إجراء حجوزات/حجزات متعددة في وقت واحد؟	نعم، يمكنك إجراء ما يصل إلى عدد غير محدود من الحجوزات
+كيف يمكنني عرض تأكيد الحجز؟	يمكنك عرضها عبر موقعنا، ستكون في قسم الحجوزات الخاصة بك
+هل هناك خيار قائمة الانتظار إذا كان المكان/الحدث محجوزًا بالكامل؟	لا، لا يتوفر خيار قائمة الانتظار
+هل يمكنني طلب خدمات إضافية أو ترقيات لحجزي/حجزي؟	نعم، بالطبع يمكنك طلب خدمات إضافية
+ما هي سياسة عدم الحضور أو التأخر في حجزي/حجزي؟	إذا لم تحضر على الإطلاق، فسيتم تحصيل المبلغ الكامل
+هل هناك إيداع أو دفعة مقدمة مطلوبة لحجزي/حجزي؟	نعم، لحجز المكان يجب عليك دفع المبلغ الكامل
+ما هي سياسة الأطفال أو الضيوف الإضافيين في حجزي/حجزي؟	يمكنك إحضار ضيوف إضافيين طالما لم يتجاوزوا السعة المحددة
+هل يمكنني تمديد أو تقصير مدة حجزي/حجزي؟	نعم، يمكن إجراء هذه التعديلات عن طريق تحرير الحجز الخاص بك
+ما هي سياسة الحيوانات الأليفة أو حيوانات المساعدة في المكان/الحدث؟	تختلف هذه السياسة من مكان إلى آخر. ستجد هذه المعلومات في الوصف
+ما هي سياسة الأشياء المفقودة أو المنسية خلال حجزي/حجزي؟	نحن غير مسؤولين عن أي أشياء مفقودة
+هل هناك حزم أو عروض متاحة لحجز المكان؟	يمكنك عرض العروض المتاحة عبر موقعنا
+كيف يمكنني البحث عن أماكن متاحة استنادًا إلى احتياجاتي؟	لدينا فلاتر مخصصة ستساعدك في عرض المكان المناسب لك
+ما هي خيارات الحجز المتاحة؟	للأسف، نحن نقدم فقط خدمة الحجز عبر الإنترنت
+كيف يمكنني التحقق من توافر مكان معين أو تاريخ محدد؟	عند اختيار المكان المفضل لك، ستظهر الوصف والتواريخ المتاحة
+هل عملية الدفع آمنة ومعتمدة؟	نعم، عملية الدفع آمنة ومعتمدة
+هل يمكنني طلب حجز لمكان أو تاريخ محدد؟	نعم، بالطبع
+ما هي تصميم المساحة؟	هذا يعتمد على المكان المحدد. ستجد هذه المعلومات في الوصف
+من المسؤول عن التنظيف؟	يمكننا توفير فريق تنظيف عند الطلب
+هل يمكنني طلب فريق تنظيف؟	نعم، بالطبع يمكنك طلب فريق التنظيف
+مدى مرونة المكان فيما يتعلق بتغيير التاريخ والوقت؟	نحن مرنونون بقدر الإمكان، شريطة أن يتم ذلك قبل 48 ساعة من الحدث
+هل كانت هناك مشاكل في الماضي في المكان خلال الأحداث السابقة؟	لا، لم تكن هناك مشاكل على الإطلاق
+ما هي خبرة فريقك في استضافة الأحداث؟	لدينا معايير عالية عندما يتعلق الأمر بالأحداث
+هل يمكنني زيارة المكان قبل الحدث للتعرف على المساحة؟	نعم، يمكنك زيارة المكان
+هل لديكم أي عروض خاصة أو خصومات يمكنني الاستفادة منها؟	يمكنك عرض العروض المتاحة عبر موقعنا
+هل هناك عدد أدنى مطلوب من الأشخاص لحجز المكان؟	لا، هذا متروك لك بالكامل
+هل يمكننا إحضار طعامنا ومشروباتنا؟	نعم، يمكنك ذلك، ولكن يمكننا توفيرها إذا كان الأمر مطلوبًا
+هل يمكنكم توفير الطعام والمشروبات؟	نعم، يمكننا توفير ذلك حسب الطلب
+في أي وقت يمكننا الوصول لإعداد كل شيء؟	يمكننا إعداد كل شيء لك، ولكن يمكنكم الوصول إلى المكان قبل 4 ساعات من الحدث
+في أي وقت يجب علينا مغادرة المكان؟	يعتمد ذلك على المكان المحدد. ستجد هذه المعلومات في الوصف
+هل هناك أفراد أمن في الموقع؟	نعم، جميع مواقعنا محمية
+كيف يمكننا التواصل معكم إذا كان لدينا أي أسئلة أو مخاوف أخرى؟	يمكنك التواصل معنا عبر رقم خدمة العملاء لدينا
+كم عدد الأشخاص الذين سيعملون في الموقع خلال الحدث؟	يعتمد ذلك على نوع الحدث، ولكن يمكنك دائمًا إضافة مزيد من العاملين
+هل يمكنني إحضار مقدمي الخدمات الخاصة بي إذا أردت؟	نعم، يمكنك ذلك، ولكن يجب إبلاغنا بذلك
+هل يتوفر فريقك لإعداد وتنظيف المكان إذا لزم الأمر؟	نعم، فريقنا متاح لذلك
+هل تقدمون خدمات أمان؟	نعم، جميع مواقعنا محمية
+كيف تجري الامور؟	جيد جدا ، شكرا. ماذا عنك؟
+سعيد بلقائك! سُعدت برؤيتك	كيف يمكنني مساعدتك؟
+مرحبا	مرحبا كيف يمكنني مساعدتك
+مرحبا	مرحبا كيف يمكنني مساعدتك؟
+مرحبا	تحياتي! كيف يمكنني مساعدتك
+مرحبا كيف الحال؟	جيد
+مرحبا كيف الحال؟	بخير
+مرحبا كيف الحال؟	عظيم
+كيف حالك؟	جيد
+كيف حالك؟	جيد جدا شكرا
+كيف حالك؟	بخير وأنت؟
+بخير وأنت؟	أنا جيدة
+سعيد بلقائك	شكرًا لك
+كيف حالك؟	أنا على ما يرام
+كيف حالك؟	أنا على ما يرام. كيف حالك؟
+أنا على ما يرام. كيف حالك؟	انا بخير كيف استطيع مساعدتك
+مرحبا، انا سعيد لرؤيتك. شكرًا لك	أنت أيضا كيف يمكنني مساعدتك؟
+انه لمن دواعي سروري أن ألتقي بكم	شكرًا لك. أنت أيضاً
+لك الصباح الأجمل	شكرا لك
+هل الأمن متاح في المكان؟	نعم ، جميع قاعاتنا محمية
+هل الأمن متاح؟	نعم ، جميع قاعاتنا محمية
+هل لديك معدات متاحة للاستخدام؟	نعم ولكن عليك تقديم طلب لذلك
+هل هناك رسوم إضافية لاستخدام هذه المعدات؟	نعم أي معدات إضافية لها رسوم إضافية
+هل هناك أي رسوم إضافية للعمل الإضافي؟	للأسف لا يمكنك تجاوز الوقت المتفق عليه
+هل المساحة خاصة أم مشتركة؟	إنه خاص تمامًا لك ولضيوفك
+هل توجد أي لوائح خاصة بالحيوانات الأليفة؟	هذا يعتمد على المكان وأصحابه. هذه المعلومات ستكون في الوصف
+هل توجد أي قواعد بخصوص الحيوانات الأليفة؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل يمكنني إحضار حيواني الأليف؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل يمكنني إحضار كلبي إلى الحدث؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل يمكنني إحضار قطتي إلى المكان؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل يجوز اصطحاب الحيوانات الأليفة في المكان؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل توجد أي قيود على إحضار الحيوانات الأليفة إلى المكان؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل هناك أي قواعد أو لوائح أخرى يجب أن يكون المستأجرون على دراية بها؟	جميع القواعد في وصف المكان
+إلى أي مدى يجب إجراء الحجوزات مسبقًا؟	يمكن إجراء الحجوزات في أي وقت طالما كان المكان متاحًا
+متى يمكنني عمل الحجز الخاص بي؟	يمكن إجراء الحجوزات في أي وقت طالما كان المكان متاحًا
+متى يمكنني الحجز؟	يمكن إجراء الحجوزات في أي وقت طالما كان المكان متاحًا	
+متى يمكنني حجز مكان؟	يمكنك حجز مكان في أي وقت طالما كان المكان متاحًا
+متى يكون المبلغ الإجمالي المستحق؟	بعد الحجز سيتم نقلك إلى صفحة الدفع
+هل توجد قيود عمرية للضيوف الذين يحضرون الحدث؟	هذا يعتمد أيضًا على المكان الذي تختاره. هذه المعلومات ستكون في الوصف
+كيف سيتم إخطار الضيوف بالحدث؟	يمكننا إعداد النشرات الخاصة بحدثك أو مشاركتها عبر وسائل التواصل الاجتماعي
+هل يمكنك إخطار الضيوف بالحدث؟	نعم ، يمكننا إعداد النشرات الخاصة بحدثك أو مشاركتها عبر وسائل التواصل الاجتماعي
+هل يمكنك مشاركة الحدث عبر وسائل التواصل الاجتماعي؟	نعم ، يمكننا مشاركتها عبر وسائل التواصل الاجتماعي
+هل يمكنك تحضير نشرات لهذا الحدث؟	نعم ، يمكننا تجهيز النشرات الإعلانية للحدث
+هل هناك خطة طوارئ للمطر؟	نعم ، لقد قمنا بتغطية كل شيء
+هل سيتم توفير الأمن من خلال المكان أم أنك بحاجة إلى استئجار مكان خاص بك؟	نعم ، جميع قاعاتنا محمية
+هل لديك أي أماكن أخرى قد تكون مناسبة لحدثنا؟	يمكنك عرض علامة التبويب التوصيات على موقعنا
+هل يسمح لنا بإحضار الزينة الخاصة بنا؟	نعم ، يمكنك إحضار الديكورات الخاصة بك
+هل يمكنك مساعدتنا في تزيين المكان؟	نعم ، لدينا فريق يمكنه المساعدة عند الطلب
+هل يمكننا تزيين المكان؟	نعم ، يمكنك إحضار الديكورات الخاصة بك
+هل يمكنني نقل الأشياء في جميع أنحاء المكان؟	نعم ، يمكنك نقل الأشياء كما تريد
+هل تقدمون مظلات للمساحات الخارجية؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل يمكنني توظيف البائعين الخاصين بي؟	نعم ، يمكنك توظيفهم
+هل يمكن أن يستوعب المكان دي جي أو فرقة موسيقية حية؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل توجد أي قيود على الضوضاء؟	هذا يعتمد على الأماكن المختارة. هذه المعلومات ستكون في الوصف
+هل يمكنك تسوية خدمة النقل؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل توجد قيود على الصور أو الفيديو؟	لا ، هذا متروك للمالك
+ماذا يحدث إذا حضر عدد أقل من المتوقع؟	لا شيء ، هذا عائد لك
+كيف تتجنب دخول أفراد الجمهور إلى المبنى؟	لدينا حراس أمن في كل مكان
+ما هو آخر وقت الانتهاء الخاص بك؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل سيكون هناك منسق مخصص لرعاية الحدث الخاص بي؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل يمكنك أن ترسل إلينا صورًا فوتوغرافية للمكان قيد الاستخدام؟	جميع صور المكان متوفرة على موقعنا
+هل يمكننا رؤية صور المكان؟	جميع صور المكان متوفرة على موقعنا
+هل يمكنك أن ترسل إلينا مقطع فيديو تجولًا حول المكان؟	للأسف ، لا نقدم مقطع فيديو ولكن يمكنك زيارة المكان
+هل يمكنك أن ترسل لنا فيديو عن المكان؟	للأسف ، لا نقدم مقطع فيديو ولكن يمكنك زيارة المكان
+هل لديك طاولات وكراسي لنا لاستخدامها؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل يمكنك تزويدنا بالطاولات والكراسي؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل يمكنك أن ترسل لنا صور الأثاث المتاح؟	يمكنك مشاهدة صور الاثاث من خلال موقعنا
+ممكن تريني صور الاثاث؟	يمكنك مشاهدة صور الاثاث من خلال موقعنا
+هل يمكننا ترك المركبات بين عشية وضحاها؟	للأسف لا يمكنك فعل ذلك
+هل لديك تلفزيونات يمكننا استخدامها؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل لديك تلفزيونات متوفرة؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل يمكنني تسليم المعدات إلى المكان؟	نعم ، هذا متروك لك
+هل نحن قادرون على تخزين معداتنا بين عشية وضحاها؟	للأسف لا يمكنك فعل ذلك
+هل يمكنني تخزين أجهزتي بين عشية وضحاها؟	للأسف لا يمكنك فعل ذلك
+في أي وقت يمكننا الوصول إلى مكان الإعداد؟	يمكنك القدوم قبل 4 ساعات
+هل متعهد خارجي مسموح به؟	نعم ، هذا مسموح به
+هل تأخذ مدفوعات البطاقات؟	نعم ، نحن نقبل البطاقات
+هل تقدمون مياه مجانية؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل يوجد واي فاي في المكان؟	هذا يعتمد على المكان. هذه المعلومات ستكون في الوصف
+هل يمكنني إحضار موردين خارجيين؟	نعم ، هذا مسموح به
+ما هو نظام الصوت والإضاءة؟	يمكنك تخصيصها بالطريقة التي تريدها
+كيف يمكنني التحقق من توفر مكان محدد لتاريخ الحدث الذي أرغب فيه؟	يمكنك استخدام عوامل التصفية الخاصة بنا لتحديد التاريخ المفضل
+لدي مشكلة فيما يتعلق بالمكان بمن اتصل؟	يمكنك الاتصال بدعم العملاء لدينا
+هل يمكنك أن تنصحني بمكان؟	يمكنك عرض علامة التبويب التوصيات على موقعنا
+كيف يمكنني التحقق من وصف المكان؟	يمكنك النقر فوق المكان المفضل لديك وستجد وصف المكان
+هل وصف المكان يغطي كل شيء؟	نعم ، وصف المكان كامل تمامًا
+هل يمكنني إدراج مكان؟	للأسف لا يمكنك فعل ذلك
+هل يمكنني البحث عن مكان باسمه؟	نعم بالطبع يمكنك استخدام شريط البحث لذلك
+هل تعمل في خارج مصر؟	للأسف نحن نعمل فقط في مصر
+هل من الممكن إجراء حجز عبر الهاتف؟	للأسف عليك الحجز من خلال موقعنا
+هل يمكنني الحجز عبر الهاتف؟	للأسف عليك الحجز من خلال موقعنا
+كيف يمكنني معرفة الموقع الدقيق للمكان؟	ستكون هذه المعلومات في وصف المكان
+كيف يمكنني التحقق من أشهر الأماكن؟	الأماكن الأكثر شعبية هي متاحة في قسم الأماكن الساخنة
+هل لديكم مكان حيث يمكنني التحقق من أفضل الأماكن؟	تتوفر أفضل الأماكن في قسم الأماكن الساخنة
+أين يمكنني التحقق من أفضل الأماكن؟	تتوفر أفضل الأماكن في قسم الأماكن الساخنة
+أين يمكنني رؤية أفضل الأماكن؟	أفضل الأماكن المتوفرة في قسم الأماكن الساخنة
+كيف يمكنني تحديد ما إذا كان المكان ذا جودة عالية؟	كل مكان له تصنيف النجوم الخاص به ، وستكون هذه المعلومات في صفحة المكان
+كيف يمكنني معرفة ما إذا كان المكان ذا جودة عالية؟	كل مكان له تصنيف النجوم الخاص به ، وستكون هذه المعلومات في صفحة المكان
+كيف يمكنني معرفة جودة المكان؟	كل مكان له تصنيف النجوم الخاص به ، وستكون هذه المعلومات في صفحة المكان
+هل يجب علي تسجيل الدخول لعرض التوصيات؟	نعم ، عليك أن تكون مسجلا
+هل يمكنني عرض التوصيات دون تسجيل الدخول؟	للأسف لا يمكنك فعل ذلك
+كيف يمكنني التأكد من أن حجزي قد تمت معالجته بنجاح؟	سوف تتلقى رسالة تأكيد بالبريد الإلكتروني على الفور
+كيف يمكنني التحقق من إتمام حجزي بنجاح؟	نعم ، ستتلقى رسالة تأكيد بالبريد الإلكتروني على الفور
+ما هي مؤشرات تأكيد حجزي؟	سوف تتلقى رسالة تأكيد بالبريد الإلكتروني على الفور
+كيف يمكنني معرفة ما إذا كان الحجز الخاص بي قد تم بنجاح؟	سوف تتلقى رسالة تأكيد بالبريد الإلكتروني على الفور
+لماذا لا يستجيب دعم العملاء لاستفساراتي؟	نحن اسفون جدا. يمكنك أن تسألني عن أي استفسارات
+لماذا يتعرض الموقع لأخطاء وتعطل متكررة؟	نحن اسفون جدا. فريقنا الفني يعالج المشكلة
+لماذا لا يمكنني تعديل الحجز عبر الإنترنت؟	يرجى الاتصال بنا عبر رقم دعم العملاء الخاص بنا
+لماذا لا أتلقى أي مساعدة من فريق دعم العملاء؟	نحن اسفون جدا. يمكنك أن تسألني عن أي استفسار
+لماذا لا يتم الرد على استفساراتي من قبل فريق دعم العملاء؟	نحن اسفون جدا. يمكنك أن تسألني عن أي استفسارات
+لماذا يستمر موقع الويب في مواجهة الأخطاء بشكل متكرر؟	نحن اسفون جدا. فريقنا الفني يعالج المشكلة
+حجزت المكان الخطأ هل يمكنني إلغاؤه؟	نعم ، يمكنك إلغاء حجزك بشرط أن يكون قبل 5 أيام
+هل يمكنني إلغاء الحجز الخاص بي بعد حجز المكان الخطأ عن طريق الخطأ؟	يمكنك إلغاء الحجز الخاص بك طالما أنه 5 أيام مقدما
+حجزت المكان الخطأ عن طريق الخطأ. هل من الممكن إلغاء الحجز؟	يمكنك إلغاء الحجز الخاص بك طالما أنه 5 أيام مقدما
+أدركت أنني حجزت المكان الخطأ. هل يمكنني إلغاء الحجز؟	يمكنك إلغاء الحجز الخاص بك طالما أنه 5 أيام مقدما
+هل يمكنك توفير التسهيلات اللازمة لمتطلبات الوصول الخاصة بي؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل يمكنني الحجز من خلال التطبيق الخاص بك؟	نعم بالطبع يمكنك فعل ذلك
+هل لديك تطبيق أم مجرد موقع على شبكة الإنترنت؟	لدينا تطبيق مخصص
+هل لديك تطبيق؟	نعم ، لدينا تطبيق
+كيف يمكنني العثور على التطبيق الخاص بك؟	يمكنك العثور عليه في متجر التطبيقات
+كيف أدفع مقابل الحجز؟	يمكنك الدفع من خلال موقعنا الآمن
+ما هي طرق الدفع المقبولة لإتمام الحجز؟	نحن نقبل بطاقات الائتمان
+كيف يمكنني متابعة الدفع للحجز الخاص بي؟	بعد الحجز سيتم نقلك إلى صفحة الدفع
+هل تقدمون أي خدمات نقل للنقل؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل هناك خدمة نقل متوفرة لاحتياجات النقل؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل هناك أي حافلات مكوكية منظمة موفرة للنقل المريح؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل يمكنني الاعتماد على أي حافلات مكوكية منظمة لاحتياجات النقل الخاصة بي؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل هناك خدمة نقل مخصصة متوفرة؟	يمكننا توفير ذلك عند الطلب
+هل تقدمون أي شاحنات مجدولة للسفر المريح؟	نعم ، يمكننا توفير ذلك عند الطلب
+هل تقدمون أماكن في مواقع خارج مصر؟	للأسف نحن نعمل فقط في مصر
+هل عروض الأماكن الخاصة بك متاحة خارج مصر؟	للأسف نحن نعمل فقط في مصر
+هل تقدمون مساحات للفعاليات في دول أخرى غير مصر؟	للأسف نحن نعمل فقط في مصر
+هل هناك أماكن تقدمها دوليا أو خارج مصر؟	للأسف نحن نعمل فقط في مصر
+هل تقدمون مساحات للمناسبات في دول أخرى غير مصر؟	للأسف نحن نعمل فقط في مصر
+هل تمتد خدمات الأماكن الخاصة بك إلى مواقع خارج مصر؟	للأسف نحن نعمل فقط في مصر
+هل تقدمون أماكن في غير مصر؟	للأسف نحن نعمل فقط في مصر
+هل لديكم أماكن في القاهرة؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم اماكن في الاسكندريه؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم أماكن في الجيزه؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم أماكن في أسوان؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم أماكن في الأقصر؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم أماكن في السويس؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم أماكن في أسيوط؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم أماكن في طنطا؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم أماكن في الغردقة؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم أماكن في المنصورة؟	نعم ، نحن نوفر أماكن هناك	
+هل هناك أي أماكن متوفرة في القاهرة لإقامة الفعاليات؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم مساحات للمناسبات في الإسكندرية؟	نعم ، نحن نوفر أماكن هناك
+هل هناك أماكن متوفرة في الجيزة لاستضافة الفعاليات؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم أماكن للمناسبات في أسوان؟	نعم ، نحن نوفر أماكن هناك
+هل توجد أماكن متوفرة في الأقصر للمناسبات الخاصة؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم مساحات للمناسبات في السويس؟	نعم ، نحن نوفر أماكن هناك
+هل توجد أماكن متوفرة في أسيوط لاستضافة الفعاليات؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم أماكن للمناسبات في طنطا؟	نعم ، نحن نوفر أماكن هناك
+هل توجد أماكن متاحة في الغردقة للمناسبات الخاصة؟	نعم ، نحن نوفر أماكن هناك
+هل لديكم مساحات للمناسبات في المنصورة؟	نعم ، نحن نوفر أماكن هناك
+هل يمكنني العثور على أماكن في القاهرة لاحتياجات الحدث الخاص بي؟	نعم ، نحن نوفر أماكن هناك
+هل توجد مساحات للفعاليات متوفرة في الإسكندرية؟	نعم ، نحن نوفر أماكن هناك
+هل يمكنني تحديد أماكن في الجيزة لاستضافة الحدث الخاص بي؟	نعم ، نحن نوفر أماكن هناك
+هل هناك أماكن للمناسبات في أسوان يمكنني حجزها؟	نعم ، نحن نوفر أماكن هناك
+هي أماكنهم في القاهرة؟	نعم ، نحن نوفر أماكن هناك
+هل أماكنهم في الإسكندرية؟	نعم ، نحن نوفر أماكن هناك
+هل أماكنهم في السويس؟	نعم ، نحن نوفر أماكن هناك
+هل يجب علي أن أُبلغك بالحضور المتوقع للحدث؟	لا، عدد الضيوف يعتمد عليك.
+هل من الضروري توفير توقعات لعدد الحضور للحدث؟	لا، عدد الضيوف يعتمد على رغبتك.
+هل تطلب عددًا تقريبيًا للحاضرين قبل تاريخ الحدث؟	لا، عدد الضيوف يعتمد على اختيارك.
+هل تحتاج إلى معرفة العدد المتوقع للحضور مسبقًا؟	لا، عدد الضيوف يعتمد على اختيارك
+هل يجب أن أقدم تقديرًا لعدد الحاضرين مسبقًا؟	لا، عدد الضيوف يعتمد على اختيارك.
+هل تحتاج إلى معرفة تقدير العدد الإجمالي للحضور في الحدث؟	لا، عدد الضيوف يعتمد على اختيارك.
+هل يفضل أن يكون لدينا تقدير تقريبي لعدد الأشخاص الحاضرين في الحدث؟	لا، عدد الضيوف يعتمد على اختيارك.
+ما هي خيارات الدفع المتاحة لحجز المكان؟	خيارات الدفع المتاحة لحجز المكان تشمل الدفع بواسطة بطاقة الائتمان.
+ما هي وسائل الدفع التي تقبلونها؟	نحن نقبل الدفع بواسطة بطاقات الائتمان.
+ما هي خيارات الدفع المتاحة؟	خيارات الدفع المتاحة تشمل الدفع بواسطة بطاقات الائتمان.
+هل تقبل بطاقات الائتمان/الخصم للدفع؟	يمكنك استخدام بطاقة الائتمان الخاصة بك.
+هل تتوفر خيارات الدفع الإلكتروني؟	نعم، يمكنك الدفع عبر الإنترنت.
+كيف هي الأمانة في المكان؟	لدينا حراس أمن في جميع أنحاء المكان.
+هل هناك فريق أمن أو موظفون متواجدون في المكان؟	لدينا حراس أمن في جميع أنحاء المكان.
+هل هناك فريق أمن في المكان؟	لدينا حراس أمن متواجدين في جميع أنحاء المكان.
+ما هو مستوى الأمان في المكان؟	لدينا حراس أمن يتواجدون في جميع أنحاء المكان لضمان الأمان وسلامة الحضور.
+هل يمكننا إحضار طعامنا ومشروباتنا؟	نعم، هذا ممكن، ولكن يمكننا توفيره إذا لزم الأمر.
+هل يُسمح بإحضار الطعام والمشروبات من الخارج إلى المكان؟	نعم، يُسمح بإحضار الطعام والمشروبات من الخارج إلى المكان، ولكن في حال الحاجة يمكننا توفيرها.
+هل يُسمح لنا بإحضار طعامنا ومشروباتنا للحدث؟	نعم، بإمكانكم إحضار طعامكم ومشروباتكم للحدث، ولكن في حال الحاجة يمكننا توفيرها أيضًا.
+هل يُسمح بخدمات تقديم الطعام والمشروبات من مصادر خارجية؟	نعم، يُسمح بخدمات تقديم الطعام والمشروبات من مصادر خارجية، ولكن في حال الحاجة يمكننا توفيرها أيضًا.
+هل هناك أي قيود على إحضار الطعام والمشروبات الخاصة بنا؟	لا، يُمكنكم إحضار الطعام والمشروبات الخاصة بكم.
+هل يُسمح بإحضار الطعام والمشروبات من الخارج؟	نعم، يُسمح بإحضار الطعام والمشروبات من الخارج، ولكن في حال الحاجة يمكننا توفيرها أيضًا.
+هل يمكنكم توفير الطعام والمشروبات؟	نعم، يمكننا توفير ذلك بناءً على الطلب.
+هل تقدم خدمات تقديم الطعام والمشروبات؟	نعم، يمكننا توفير خدمات تقديم الطعام والمشروبات بناءً على الطلب.
+هل هناك خيارات متاحة لتوفير الطعام والمشروبات؟	نعم، يمكننا توفير ذلك بناءً على الطلب. لدينا خيارات متنوعة لتلبية احتياجاتكم فيما يتعلق بتوفير الطعام والمشروبات. يُرجى إعلامنا بالمتطلبات الخاصة بكم لكي نتمكن من ترتيبها بشكل مناسب.
+هل يمكنني الاعتماد على خدماتكم لتوفير الطعام والمشروبات؟	نعم، يمكنك الاعتماد على خدماتنا لتوفير الطعام والمشروبات. يُرجى إعلامنا بمتطلباتك الخاصة ونحن سنعمل على تلبيتها بشكل ملائم واحترافي.
+هل توفرون ترتيبات الطعام والمشروبات للفعاليات؟	نعم، يمكننا توفير ذلك حسب الطلب.
+هل يمكنكم توفير الطعام والمشروبات للفعالية؟	نعم، يمكننا توفير ذلك حسب الطلب.
+كيف سيتم إبلاغ الضيوف عن الحدث؟	يمكننا تحضير نشرات إعلانية للحدث الخاص بك أو مشاركته عبر وسائل التواصل الاجتماعي.
+هل يمكنك مشاركة الحدث عبر وسائل التواصل الاجتماعي؟	نعم ، يمكننا مشاركتها عبر وسائل التواصل الاجتماعي	
+هل يمكنك تحضير نشرات لهذا الحدث؟	نعم ، يمكننا تجهيز النشرات الإعلانية للحدث.
+هل تقدمون إعداد النشرة كجزء من دعم الحدث الخاص بك؟	نعم ، يمكننا تجهيز النشرات الإعلانية للحدث عند الطلب.
+هل يمكنني طلب المساعدة في إنشاء منشورات عن الأحداث من فريقك؟	نعم ، يمكننا المساعدة في إعداد النشرات الإعلانية للحدث عند الطلب.
+هل تقدمون خدمات تصميم النشرات الإعلانية للأحداث؟	نعم ، يمكننا تجهيز النشرات الإعلانية للحدث عند الطلب.
+هل يمكنني الحصول على مساعدة في إنشاء نشرة إعلانية للترويج للحدث؟	نعم ، يمكننا المساعدة في إعداد النشرات الإعلانية للحدث.
