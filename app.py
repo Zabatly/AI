@@ -1,9 +1,7 @@
-# Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
-# .\.venv\Scripts\Activate
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from finalChat import bot_conv
-from connector import recommend
+from chatbot import bot_conv
+from recommender import recommend
 
 app = Flask(__name__)
 CORS(app)
